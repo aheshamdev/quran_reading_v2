@@ -1,0 +1,898 @@
+{
+  "weeks": [
+    {
+      "week_number": 1,
+      "period": "الأسبوع الأول",
+      "days": [
+        {
+          "day_number": 1,
+          "day_name": "الثلاثاء",
+          "daily_recitation": {
+            "listening": "حزب ربع الأول",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "لا يوجد",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 2,
+          "day_name": "الأربعاء",
+          "daily_recitation": {
+            "listening": "حزب الأول",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الأول",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 3,
+          "day_name": "الخميس",
+          "daily_recitation": {
+            "listening": "حزب ربع الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الأول",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 4,
+          "day_name": "الجمعة",
+          "daily_recitation": {
+            "listening": "حزب الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثاني",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 5,
+          "day_name": "السبت",
+          "daily_recitation": {
+            "listening": "حزب ربع الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثاني",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 6,
+          "day_name": "الأحد",
+          "daily_recitation": {
+            "listening": "حزب الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثاني",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 7,
+          "day_name": "الإثنين",
+          "daily_recitation": {
+            "listening": "حزب ربع الثالث",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثاني",
+          "preparation": {
+            "weekly": "حزب الأول",
+            "nightly": "لا يوجد",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "period": "الأسبوع الثاني",
+      "days": [
+        {
+          "day_number": 1,
+          "day_name": "الثلاثاء",
+          "daily_recitation": {
+            "listening": "حزب الثالث",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثالث",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 1 الي 3",
+            "before": "لا يوجد",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 2,
+          "day_name": "الأربعاء",
+          "daily_recitation": {
+            "listening": "حزب ربع الرابع",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثالث",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 4 الي 5",
+            "before": "صفحة 1 الي 3",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 1 الي 3",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 3,
+          "day_name": "الخميس",
+          "daily_recitation": {
+            "listening": "حزب الرابع",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الرابع",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 6 الي 7",
+            "before": "صفحة 4 الي 5",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 4 الي 5",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 4,
+          "day_name": "الجمعة",
+          "daily_recitation": {
+            "listening": "حزب ربع الخامس",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الرابع",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 8 الي 9",
+            "before": "صفحة 6 الي 7",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 6 الي 7",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 5,
+          "day_name": "السبت",
+          "daily_recitation": {
+            "listening": "حزب الخامس",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الخامس",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 10 الي 11",
+            "before": "صفحة 8 الي 9",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 8 الي 9",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 6,
+          "day_name": "الأحد",
+          "daily_recitation": {
+            "listening": "حزب ربع الأول",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الخامس",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 12 الي 13",
+            "before": "صفحة 10 الي 11",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 10 الي 11",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 7,
+          "day_name": "الإثنين",
+          "daily_recitation": {
+            "listening": "حزب الأول",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الأول",
+          "preparation": {
+            "weekly": "حزب الثاني",
+            "nightly": "صفحة 14 الي 15",
+            "before": "صفحة 12 الي 13",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 12 الي 13",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "period": "الأسبوع الثالث",
+      "days": [
+        {
+          "day_number": 1,
+          "day_name": "الثلاثاء",
+          "daily_recitation": {
+            "listening": "حزب ربع الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الأول",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 16 الي 17",
+            "before": "صفحة 14 الي 15",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 14 الي 15",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 2,
+          "day_name": "الأربعاء",
+          "daily_recitation": {
+            "listening": "حزب الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثاني",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 18 الي 19",
+            "before": "صفحة 16 الي 17",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 16 الي 17",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 3,
+          "day_name": "الخميس",
+          "daily_recitation": {
+            "listening": "حزب ربع الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثاني",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 20 الي 21",
+            "before": "صفحة 18 الي 19",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 18 الي 19",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 4,
+          "day_name": "الجمعة",
+          "daily_recitation": {
+            "listening": "حزب الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثاني",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 22 الي 23",
+            "before": "صفحة 20 الي 21",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 20 الي 21",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 5,
+          "day_name": "السبت",
+          "daily_recitation": {
+            "listening": "حزب ربع الثالث",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثاني",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 24 الي 25",
+            "before": "صفحة 22 الي 23",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 22 الي 23",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 3",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 6,
+          "day_name": "الأحد",
+          "daily_recitation": {
+            "listening": "حزب الثالث",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثالث",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 26 الي 27",
+            "before": "صفحة 24 الي 25",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 24 الي 25",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 5",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 7,
+          "day_name": "الإثنين",
+          "daily_recitation": {
+            "listening": "حزب ربع الرابع",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثالث",
+          "preparation": {
+            "weekly": "حزب التالت",
+            "nightly": "صفحة 28 الي 29",
+            "before": "صفحة 26 الي 27",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 26 الي 27",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 7",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "period": "الأسبوع الرابع",
+      "days": [
+        {
+          "day_number": 1,
+          "day_name": "الثلاثاء",
+          "daily_recitation": {
+            "listening": "حزب الرابع",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الرابع",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 30 الي 31",
+            "before": "صفحة 28 الي 29",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 28 الي 29",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 9",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 2,
+          "day_name": "الأربعاء",
+          "daily_recitation": {
+            "listening": "حزب ربع الخامس",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الرابع",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 32 الي 33",
+            "before": "صفحة 30 الي 31",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 30 الي 31",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 11",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 3,
+          "day_name": "الخميس",
+          "daily_recitation": {
+            "listening": "حزب الخامس",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الخامس",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 34 الي 35",
+            "before": "صفحة 32 الي 33",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 32 الي 33",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 13",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 4,
+          "day_name": "الجمعة",
+          "daily_recitation": {
+            "listening": "حزب ربع الأول",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الخامس",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 36 الي 37",
+            "before": "صفحة 34 الي 35",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 34 الي 35",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 15",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 5,
+          "day_name": "السبت",
+          "daily_recitation": {
+            "listening": "حزب الأول",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الأول",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 38 الي 39",
+            "before": "صفحة 36 الي 37",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 36 الي 37",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 17",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 6,
+          "day_name": "الأحد",
+          "daily_recitation": {
+            "listening": "حزب ربع الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الأول",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 40 الي 41",
+            "before": "صفحة 38 الي 39",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 38 الي 39",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 19",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 7,
+          "day_name": "الإثنين",
+          "daily_recitation": {
+            "listening": "حزب الثاني",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثاني",
+          "preparation": {
+            "weekly": "حزب الرابع",
+            "nightly": "صفحة 42 الي 43",
+            "before": "صفحة 40 الي 41",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 40 الي 41",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 2 الي 21",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "لا يوجد",
+            "ai_mode": "memorization_check"
+          }
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "period": "الأسبوع الخامس",
+      "days": [
+        {
+          "day_number": 1,
+          "day_name": "الثلاثاء",
+          "daily_recitation": {
+            "listening": "حزب ربع الثالث",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثاني",
+          "preparation": {
+            "weekly": "حزب الخامس",
+            "nightly": "صفحة 44 الي 45",
+            "before": "صفحة 42 الي 43",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 42 الي 43",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 22 الي 23",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "صفحة 2 الي 3",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 2,
+          "day_name": "الأربعاء",
+          "daily_recitation": {
+            "listening": "حزب الثالث",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الثالث",
+          "preparation": {
+            "weekly": "حزب الخامس",
+            "nightly": "صفحة 46 الي 47",
+            "before": "صفحة 44 الي 45",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 44 الي 45",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 22 الي 25",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "صفحة 2 الي 5",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 3,
+          "day_name": "الخميس",
+          "daily_recitation": {
+            "listening": "حزب ربع الرابع",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب الثالث",
+          "preparation": {
+            "weekly": "حزب الخامس",
+            "nightly": "صفحة 48 الي 49",
+            "before": "صفحة 46 الي 47",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 46 الي 47",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 22 الي 27",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "صفحة 2 الي 7",
+            "ai_mode": "memorization_check"
+          }
+        },
+        {
+          "day_number": 4,
+          "day_name": "الجمعة",
+          "daily_recitation": {
+            "listening": "حزب الرابع",
+            "ai_mode": "reading_validation"
+          },
+          "reading": "حزب ربع الرابع",
+          "preparation": {
+            "weekly": "حزب الخامس",
+            "nightly": "صفحة 50",
+            "before": "صفحة 48 الي 49",
+            "ai_mode": "reading_validation"
+          },
+          "memorization": {
+            "pages": "صفحة 48 الي 49",
+            "ai_mode": "memorization_check"
+          },
+          "near_review": {
+            "pages": "صفحة 22 الي 29",
+            "ai_mode": "memorization_check"
+          },
+          "far_review": {
+            "pages": "صفحة 2 الي 9",
+            "ai_mode": "memorization_check"
+          }
+        }
+      ]
+    }
+  ]
+}

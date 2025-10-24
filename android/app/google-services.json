@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656150999037",
+    "project_id": "quran-reading-v2-1",
+    "storage_bucket": "quran-reading-v2-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656150999037:android:7a4f21b8506e636756f394",
+        "android_client_info": {
+          "package_name": "com.example.quran_reading_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxu84ZdBXJf_S5CK_CdnX6vgzblXXURrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
